@@ -37,3 +37,6 @@ python ElGamal.py
 
 * Expected Decryption Output
 ![El Gamal DES Decryption](https://github.com/HaifengMei/ElGamal_DES/blob/master/Screenshots/ElGamal_DES%20Decryption.PNG?raw=true)
+
+### Credits
+The ElGamal encryption and decryption were based off [RyanRiddle ElGamal](https://github.com/RyanRiddle/elgamal)
